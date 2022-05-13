@@ -137,6 +137,7 @@ p {
   text-decoration: none;
   color: black;
   font-family: "Roboto", sans-serif;
+  display: inline-block;
 }
 .info-title span {
   text-decoration: underline;
